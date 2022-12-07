@@ -60,3 +60,9 @@ The only issue we ran in to is that since the preset FSM was only set up to make
 
 
 Citations
+
+Initial modules for the BASYS 2 FPGA board credit GitHub Handle: nyLiao
+
+Vga Module zip(vga_adapter.v, vga_controller.v, vga_address_translator.v, vga_pll.v) credit: Chris Lallo
+
+Initial set up for rectangle generation: Jacob Gardner
