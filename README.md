@@ -21,7 +21,7 @@ The main file(wam_main.v) instantiates many other files and modules as well as a
   
  
  
-Detailed Run Down (Module design)
+Detailed Run Down (Module design):
 
 The game runs off of the wam_main.v module which calls out the many different modules to complete tasks for it. Since this game runs on a 50MHz clock, the game is constantly instantiating these other modules so they update the display almost instantaneously. I will explain how the game it'self works and then Get into the display of the board and the VGA.
 
@@ -64,7 +64,7 @@ The only issue we ran in to is that since the preset FSM was only set up to make
 
 
 
-Citations
+Citations:
 
 Initial modules for the BASYS 2 FPGA board credit GitHub Handle: nyLiao
 
